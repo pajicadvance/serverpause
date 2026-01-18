@@ -2,7 +2,7 @@
     "Group": "Server Pause",
     "Name": "Server Pause",
     "Version": "1.0.0",
-    "Description": "Pauses the server when no players are online",
+    "Description": "Pauses worlds on the server when no players are online",
     "Authors": [
         {
             "Name": "pajic"
