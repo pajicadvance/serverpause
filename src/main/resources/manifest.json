@@ -1,14 +1,14 @@
 {
-    "Group": "Example",
-    "Name": "ExamplePlugin",
-    "Version": "0.0.2",
-    "Description": "An example plugin for HyTale!",
+    "Group": "Server Pause",
+    "Name": "Server Pause",
+    "Version": "1.0.0",
+    "Description": "Pauses the server when no players are online",
     "Authors": [
         {
-            "Name": "It's you!"
+            "Name": "pajic"
         }
     ],
-    "Website": "example.org",
+    "Website": "",
     "ServerVersion": "*",
     "Dependencies": {
         
@@ -17,6 +17,6 @@
         
     },
     "DisabledByDefault": false,
-    "Main": "org.example.plugin.ExamplePlugin",
-    "IncludesAssetPack": true
+    "Main": "me.pajic.plugin.ServerPausePlugin",
+    "IncludesAssetPack": false
 }
